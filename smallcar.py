@@ -19,6 +19,7 @@ while True:
             print("Car stopped.")
     elif command == 'quit':
         print("Thanks for playing! Goodbye!")
+        print("I am mikias ")
         break
     else:
         print("Sorry, I didn't understand that command.")
